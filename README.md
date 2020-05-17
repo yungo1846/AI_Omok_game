@@ -1,5 +1,5 @@
 # Omok_game
-"Omok" game with AI and using python 
+"Omok" game with AI(Alpha-Beta pruning Alg) and using python 
 
 You can choose the self play or play with AI.
 If you choose the AI play and then you can choose the first_player or not.
