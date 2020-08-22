@@ -1,4 +1,4 @@
-# Omok_game
+# AI Omok_game
 "Omok" game with AI(Alpha-Beta pruning Alg) and using python 
 
 You can choose the self play or play with AI.
